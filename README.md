@@ -181,7 +181,7 @@ Follow these steps carefully to open and run the project in Visual Studio:
 - Download the project ZIP and extract it, **OR**
 - Clone the repository using Git:
   ```
-  git clone <repository-url>
+  git clone <https://github.com/Vivekkrguptajio/ItemProcessingApp>
   ```
 
 ### Step 2: Open the Solution in Visual Studio
